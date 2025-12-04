@@ -2,7 +2,7 @@
 
 Un analyseur de documents PDF élégant avec une interface inspirée des vieilles bibliothèques et manuscrits anciens. Cet outil permet d'extraire et d'analyser la fréquence des mots contenus dans vos documents PDF.
 
-![Interface Vintage](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800)
+![Interface Vintage](https://github.com/sbois/Analyseur-de-PDF---Nombre-d-occurences-d-un-mot/blob/main/capture.png)
 
 ## ✨ Fonctionnalités
 
