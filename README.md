@@ -35,8 +35,8 @@ Un analyseur de documents PDF élégant avec une interface inspirée des vieille
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/votre-username/analyseur-pdf-vintage.git
-cd analyseur-pdf-vintage
+git clone https://github.com/sbois/Analyseur-de-PDF---Nombre-d-occurences-d-un-mot.git
+cd Analyseur-de-PDF---Nombre-d-occurences-d-un-mot
 ```
 
 2. **Vérifier les dépendances**
@@ -120,7 +120,7 @@ Dans la fonction `analysePDF()`, ajoutez ou retirez des mots du tableau `$stopwo
 ## 📁 Structure du projet
 
 ```
-analyseur-pdf-vintage/
+Analyseur-de-PDF---Nombre-d-occurences-d-un-mot/
 │
 ├── index.php              # Fichier principal
 ├── uploads/               # Dossier des PDF téléversés
